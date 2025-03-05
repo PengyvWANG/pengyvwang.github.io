@@ -55,12 +55,15 @@ My research interests include audio signal processing, array signal processing, 
 - Nian Shao, Rui Zhou, **Pengyu Wang**, et al. [CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR](https://doi.org/10.48550/arXiv.2502.20040).
 
 **Patent**
-- 叶中付, **王鹏宇**, 杨会超, 用非接触式测速实现球磨机工作状态检测的方法及系统
-- 叶中付, 杨会超, **王鹏宇**, 一种基于非高斯非圆信号特性的稳健自适应波束形成方法
-- 叶中付, 杨会超, **王鹏宇**, 基于近场宽带波束形成的大型电抗器故障检测方法及系统
-- 叶中付, 杨会超, **王鹏宇**, 基于最优宽带波束形成的大型电抗器故障检测方法及系统
-- 叶中付, 杨会超, **王鹏宇**, 基于声音能量的球磨机工作状态检测方法
-- 叶中付, 杨会超, **王鹏宇**, 一种快速的 NC-OFDM 卫星通信比特功率分配方法
+
+- Ye Zhongfu, **Pengyu Wang**, Yang Huichao, Method and system for detecting the working state of a ball mill using non-contact speed measurement.
+- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, A robust adaptive beamforming method based on the characteristics of non-Gaussian and non-circular signals.
+- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, Method and system for fault detection of large reactors based on near-field wideband beamforming.
+- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, Method and system for fault detection of large reactors based on optimal wideband beamforming.
+- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, Method for detecting the working state of a ball mill based on sound energy.
+- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, A fast bit-power allocation method for NC-OFDM satellite communication.
+
+
 
 
 # 🎖 Honors and Awards
