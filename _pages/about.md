@@ -40,7 +40,7 @@ My research interests include audio signal processing, array signal processing, 
 - **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [1-Bit direction of arrival estimation via improved complex-valued binary iterative hard thresholding](https://doi.org/10.1016/j.dsp.2021.103265). Digital Signal Processing, 120, 103265.
 - Huichao Yang, **Pengyu Wang**, Zhongfu Ye. [Robust Adaptive Beamforming via Covariance Matrix Reconstruction Under Colored Noise](https://doi.org/10.1109/LCOMM.2021.3103208), IEEE Signal Processing Letters, 28, 1759-1763.
 - Huichao Yang, **Pengyu Wang**, Zhongfu Ye. [Robust adaptive beamforming via covariance matrix reconstruction and interference power estimation](https://doi.org/10.1109/LSP.2021.3105930), IEEE Communications Letters, 25 (10), 3394-3397
-- 叶中付, 王鹏宇, 杨会超, 等. [基于NC-OFDM系统的快速资源分配算法](https://doi.org/10.16337/j.1004-9037.2021.06.002), 数据采集与处理.
+
 
 
 **Conference**
@@ -64,6 +64,6 @@ My research interests include audio signal processing, array signal processing, 
 
 
 # 🎖 Honors and Awards
-- 浙江大学优秀研究生.
-- 西湖大学求知探索奖.
+- Zhejiang University "Outstanding Graduate Student".
+- Westlake University "Exploration Award".
 
