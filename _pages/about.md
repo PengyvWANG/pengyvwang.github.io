@@ -24,13 +24,7 @@ I received the B.E. degree in Electronic and Information Engineering from Xidian
 My research interests include audio signal processing, array signal processing, and machine learning.
 
 
-# 📖 Educations
-- *2022.09 - now*, Ph.D. candidate in Computer Science and Technology at Zhejiang University (浙江大学), Hangzhou, China and also Westlake University (西湖大学), Hangzhou, China.
-- *2019.09 - 2022.06*, M.S. in Information and Communication Engineering from University of Science and Technology of China (中国科学技术大学), Hefei, China. 
-- *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University (西安电子科技大学), Xi'an, China. 
 
-# 💻 Experience
-- *2021.07 - 2021.09*, Algorithm Engineer Intern, Machine Intelligence Technology, Speech Lab, Alibaba Damo Technology Co., Hangzhou, China.
 
   
 # 📝 Publications 
@@ -65,7 +59,13 @@ My research interests include audio signal processing, array signal processing, 
 - Ye Zhongfu, Yang Huichao, **Pengyu Wang**, A fast bit-power allocation method for NC-OFDM satellite communication.
 
 
+# 📖 Educations
+- *2022.09 - now*, Ph.D. candidate in Computer Science and Technology at Zhejiang University, Hangzhou, China and also Westlake University, Hangzhou, China.
+- *2019.09 - 2022.06*, M.S. in Information and Communication Engineering from University of Science and Technology of China, Hefei, China. 
+- *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University, Xi'an, China. 
 
+# 💻 Experience
+- *2021.07 - 2021.09*, Algorithm Engineer Intern, Machine Intelligence Technology, Speech Lab, Alibaba Damo Technology Co., Hangzhou, China.
 
 # 🎖 Honors and Awards
 - Zhejiang University "Outstanding Graduate Student".
