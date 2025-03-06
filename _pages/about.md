@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🤵🏻 About me
+
 I am currently a Ph.D. student in Computer Science and Technology at Zhejiang University (浙江大学), Hangzhou, China and also Westlake University (西湖大学), Hangzhou, China supervised by Prof. Xiaofei Li (李晓飞). 
 I received the M.S. degree in Information and Communication Engineering from University of Science and Technology of China (中国科学技术大学), Hefei, China, in 2022, supervised by Prof. Zhongfu Ye (叶中付). 
 I received the B.E. degree in Electronic and Information Engineering from Xidian University (西安电子科技大学), Xi'an, China, in 2019. 
@@ -24,6 +26,9 @@ I received the B.E. degree in Electronic and Information Engineering from Xidian
 My research interests include audio signal processing, array signal processing, and machine learning.
 
 
+# 🔥 News
+- 2024.09: &nbsp;🎉🎉🎉 One paper accepted by NIPS 2024!
+- 2023.12: &nbsp;🎉🎉🎉 One paper accepted by ICASSP 2024!
 
 
   
