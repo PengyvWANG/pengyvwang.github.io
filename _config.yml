@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Pengyu Wang (王鹏宇)"
+  name             : "Pengyu Wang \n (王鹏宇)"
   avatar           : "images/dora.png"
   bio              : #"Lorem ipsum College"
   location         : "Hangzhou, China"
