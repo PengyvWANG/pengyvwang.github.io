@@ -34,6 +34,12 @@ My research interests include audio signal processing, array signal processing, 
   
 # 📝 Publications 
 
+
+**Preprint**
+- **Pengyu Wang**, Ying Fang, Xiaofei Li. [VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification](https://doi.org/10.48550/arXiv.2502.07205).
+- Nian Shao, Rui Zhou, **Pengyu Wang**, et al. [CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR](https://doi.org/10.48550/arXiv.2502.20040).
+
+
 **Journal**
 
 - **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [An Off-grid Wideband DOA Estimation Method with the Variational Bayes Expectation-Maximization Framework](https://doi.org/10.1016/j.sigpro.2021.108423). **Signal Processing**, 193, 108423.
@@ -50,9 +56,6 @@ My research interests include audio signal processing, array signal processing, 
 - **Pengyu Wang**, Feifei Xiong, Zhongfu Ye, et al. [Joint Estimation of Direction-of-Arrival and Distance for Arrays with Directional Sensors based on Sparse Bayesian Learning](https://www.isca-archive.org/interspeech_2022/xiong22b_interspeech.pdf). **Interspeech**, 871-875.
 - Feifei Xiong, Weiguang Chen, **Pengyu Wang**, et al. [Spectro-Temporal SubNet for Real-Time Monaural Speech Denoising and Dereverberation](https://www.researchgate.net/profile/Feifei-Xiong/publication/361305762_Spectro-Temporal_SubNet_for_Real-Time_Monaural_Speech_Denoising_and_Dereverberation/links/63f43adcb1704f343f6dc8f6/Spectro-Temporal-SubNet-for-Real-Time-Monaural-Speech-Denoising-and-Dereverberation.pdf). **Interspeech**, 931-935.
 
-**Preprint**
-- **Pengyu Wang**, Ying Fang, Xiaofei Li. [VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification](https://doi.org/10.48550/arXiv.2502.07205).
-- Nian Shao, Rui Zhou, **Pengyu Wang**, et al. [CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR](https://doi.org/10.48550/arXiv.2502.20040).
 
 **Patent**
 
