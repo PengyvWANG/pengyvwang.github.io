@@ -59,12 +59,12 @@ My research interests include audio signal processing, array signal processing, 
 
 **Patent**
 
-- Ye Zhongfu, **Pengyu Wang**, Yang Huichao, Method and system for detecting the working state of a ball mill using non-contact speed measurement.
-- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, A robust adaptive beamforming method based on the characteristics of non-Gaussian and non-circular signals.
-- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, Method and system for fault detection of large reactors based on near-field wideband beamforming.
-- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, Method and system for fault detection of large reactors based on optimal wideband beamforming.
-- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, Method for detecting the working state of a ball mill based on sound energy.
-- Ye Zhongfu, Yang Huichao, **Pengyu Wang**, A fast bit-power allocation method for NC-OFDM satellite communication.
+- Zhongfu Ye, **Pengyu Wang**, Huichao Yang, Method and system for detecting the working state of a ball mill using non-contact speed measurement.
+- Zhongfu Ye, Huichao Yang, **Pengyu Wang**, A robust adaptive beamforming method based on the characteristics of non-Gaussian and non-circular signals.
+- Zhongfu Ye, Huichao Yang, **Pengyu Wang**, Method and system for fault detection of large reactors based on near-field wideband beamforming.
+- Zhongfu Ye, Huichao Yang, **Pengyu Wang**, Method and system for fault detection of large reactors based on optimal wideband beamforming.
+- Zhongfu Ye, Huichao Yang, **Pengyu Wang**, Method for detecting the working state of a ball mill based on sound energy.
+- Zhongfu Ye, Huichao Yang, **Pengyu Wang**, A fast bit-power allocation method for NC-OFDM satellite communication.
 
 
 # 📖 Educations
