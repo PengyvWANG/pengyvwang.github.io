@@ -73,7 +73,7 @@ My research interests include audio signal processing, array signal processing, 
 - *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University, Xi'an, China. 
 
 # 💻 Experience
-- *2021.07 - 2021.09*, Algorithm Engineer Intern, Machine Intelligence Technology, Speech Lab, Alibaba Damo Technology Co., Hangzhou, China. Mentor: Jinwei Feng (冯津伟).
+- *2021.07 - 2021.09*, Algorithm Engineer Intern, Machine Intelligence Technology, Speech Lab, Alibaba DAMO Academy for Discovery, Adventure, Momentum and Outlook (阿里巴巴达摩院), Hangzhou, China. Mentor: Jinwei Feng (冯津伟).
 
 # 🎖 Honors and Awards
 - Zhejiang University "Outstanding Graduate Student".
