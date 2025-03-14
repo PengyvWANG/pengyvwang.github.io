@@ -20,8 +20,6 @@ redirect_from:
 # 🤵🏻 About me
 
 I am currently a Ph.D. student in Computer Science and Technology at Zhejiang University (浙江大学), Hangzhou, China and also Westlake University (西湖大学), Hangzhou, China supervised by Prof. Xiaofei Li (李晓飞). 
-I received the M.S. degree in Information and Communication Engineering from University of Science and Technology of China (中国科学技术大学), Hefei, China, in 2022, supervised by Prof. Zhongfu Ye (叶中付). 
-I received the B.E. degree in Electronic and Information Engineering from Xidian University (西安电子科技大学), Xi'an, China, in 2019. 
 
 My research interests include audio signal processing, array signal processing, and machine learning.
 
@@ -68,12 +66,12 @@ My research interests include audio signal processing, array signal processing, 
 
 
 # 📖 Educations
-- *2022.09 - now*, Ph.D. candidate in Computer Science and Technology at Zhejiang University, Hangzhou, China and also Westlake University, Hangzhou, China.
-- *2019.09 - 2022.06*, M.S. in Information and Communication Engineering from University of Science and Technology of China, Hefei, China. 
-- *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University, Xi'an, China. 
+- *2022.09 - now*, Ph.D. candidate in Computer Science and Technology at Zhejiang University (浙江大学), Hangzhou, China and also Westlake University (西湖大学), Hangzhou, China. Supervisor: Xiaofei Li (李晓飞).
+- *2019.09 - 2022.06*, M.S. in Information and Communication Engineering from University of Science and Technology of China (中国科学技术大学), Hefei, China. Supervisor: Zhongfu Ye (叶中付).
+- *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University (西安电子科技大学), Xi'an, China. 
 
 # 💻 Experience
-- *2021.07 - 2021.09*, Algorithm Engineer Intern, Machine Intelligence Technology, Speech Lab, Alibaba DAMO Academy for Discovery, Adventure, Momentum and Outlook (阿里巴巴达摩院), Hangzhou, China. Mentor: Jinwei Feng (冯津伟).
+- *2021.07 - 2021.09*, Algorithm Engineer Intern, Speech Lab, Machine Intelligence Technology, Alibaba DAMO Academy for Discovery, Adventure, Momentum and Outlook (阿里巴巴达摩院), Hangzhou, China. Mentor: Jinwei Feng (冯津伟).
 
 # 🎖 Honors and Awards
 - Zhejiang University "Outstanding Graduate Student".
