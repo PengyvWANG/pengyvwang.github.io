@@ -67,7 +67,7 @@ My research interests include audio signal processing, array signal processing, 
 
 # 📖 Educations
 - *2022.09 - now*, Ph.D. candidate in Computer Science and Technology at Zhejiang University (浙江大学), Hangzhou, China and also Westlake University (西湖大学), Hangzhou, China. Supervisor: Xiaofei Li (李晓飞).
-- *2019.09 - 2022.06*, M.S. in Information and Communication Engineering from University of Science and Technology of China (中国科学技术大学), Hefei, China. Supervisor: Zhongfu Ye (叶中付).
+- *2019.09 - 2022.06*, M.S. in Information and Communication Engineering from University of Science and Technology of China (中国科学技术大学), Hefei, China. Supervisor: Zhongfu Ye (叶中付). Lab: National Engineering Laboratory of Speech and Language Information Processing (语音及语言信息处理国家工程实验室).
 - *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University (西安电子科技大学), Xi'an, China. 
 
 # 💻 Experience
