@@ -74,6 +74,6 @@ My research interests include audio signal processing, array signal processing, 
 - *2021.07 - 2021.09*, Algorithm Engineer Intern, Speech Lab, Machine Intelligence Technology, Alibaba DAMO Academy for Discovery, Adventure, Momentum and Outlook (阿里巴巴达摩院), Hangzhou, China. Mentor: Jinwei Feng (冯津伟).
 
 # 🎖 Honors and Awards
-- Zhejiang University "Outstanding Graduate Student".
+- Zhejiang University "Award of Honor for Graduate".
 - Westlake University "Exploration Award".
 
