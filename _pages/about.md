@@ -25,6 +25,7 @@ My research interests include audio signal processing, array signal processing, 
 
 
 # 🔥 News
+- 2024.07: &nbsp;🎉🎉🎉 One paper accepted by IEEE TASLP!
 - 2024.09: &nbsp;🎉🎉🎉 One paper accepted by NIPS 2024!
 - 2023.12: &nbsp;🎉🎉🎉 One paper accepted by ICASSP 2024!
 
@@ -35,11 +36,11 @@ My research interests include audio signal processing, array signal processing, 
 
 **Preprint**
 - **Pengyu Wang**, Ying Fang, Xiaofei Li. [VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification](https://doi.org/10.48550/arXiv.2502.07205).
-- Nian Shao, Rui Zhou, **Pengyu Wang**, et al. [CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR](https://doi.org/10.48550/arXiv.2502.20040).
+
 
 
 **Journal**
-
+- Nian Shao, Rui Zhou, **Pengyu Wang**, et al. [CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR](https://doi.org/10.48550/arXiv.2502.20040). **IEEE Transactions on Audio, Speech and Language Signal Processing**.
 - **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [An Off-grid Wideband DOA Estimation Method with the Variational Bayes Expectation-Maximization Framework](https://doi.org/10.1016/j.sigpro.2021.108423). **Signal Processing**, 193, 108423.
 - **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [1-Bit direction of arrival estimation via improved complex-valued binary iterative hard thresholding](https://doi.org/10.1016/j.dsp.2021.103265). **Digital Signal Processing**, 120, 103265.
 - Huichao Yang, **Pengyu Wang**, Zhongfu Ye. [Robust Adaptive Beamforming via Covariance Matrix Reconstruction Under Colored Noise](https://doi.org/10.1109/LCOMM.2021.3103208), **IEEE Signal Processing Letters**, 28, 1759-1763.
