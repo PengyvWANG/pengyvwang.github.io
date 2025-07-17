@@ -25,7 +25,7 @@ My research interests include audio signal processing, array signal processing, 
 
 
 # 🔥 News
-- 2024.07: &nbsp;🎉🎉🎉 One paper accepted by IEEE TASLP!
+- 2025.07: &nbsp;🎉🎉🎉 One paper accepted by IEEE TASLP!
 - 2024.09: &nbsp;🎉🎉🎉 One paper accepted by NIPS 2024!
 
 
