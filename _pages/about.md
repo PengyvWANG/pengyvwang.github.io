@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a Ph.D. student in Computer Science and Technology at Zhejiang University, Hangzhou, China, and also at Westlake University (西湖大学), Hangzhou, China, supervised by Prof. Xiaofei Li (李晓飞). 
 
-My research interests include audio signal processing, array signal processing, deep learning, and machine learning. <a href='https://scholar.google.com/citations?user=j4EqUL8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include audio signal processing, array signal processing, deep learning, and machine learning.<a href='https://scholar.google.com/citations?user=j4EqUL8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
