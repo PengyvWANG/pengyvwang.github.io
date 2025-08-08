@@ -42,7 +42,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">arxiv</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.48550/arXiv.2502.07205">VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification</a>
-        <strong>Pengyu Wang</strong>, Ying Fang, Xiaofei Li
+        <span class="paper-authors"><strong>Pengyu Wang</strong>, Ying Fang, Xiaofei Li</span>
       </div>
     </div>
   </div>
