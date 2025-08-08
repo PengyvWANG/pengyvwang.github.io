@@ -109,7 +109,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">NIPS 2024</span>
       <div class="text-content">
         <a class="paper-title" href="https://proceedings.neurips.cc/paper_files/paper/2024/file/bf8f6f5b017dc60d0c4e28a7a9a4ee7b-Paper-Datasets_and_Benchmarks_Track.pdf">RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization</a>
-        Bing Yang, Changsheng Quang, Yabo Wang, <strong>Pengyu Wang</strong>, et al.
+        <span class="paper-authors">Bing Yang, Changsheng Quang, Yabo Wang, <strong>Pengyu Wang</strong>, et al.</span>
       </div>
     </div>
   </div>
