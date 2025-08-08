@@ -117,7 +117,7 @@ h1:before, .anchor:before {
 
 /* 徽章样式：避免遮挡 */
 .badge {
-  padding: 0.01em 0.01em;
+  padding: 0.05em 0.05em;
   color: white;
   background-color: #00369f;
   font-size: 0.75em;
@@ -140,8 +140,8 @@ h1:before, .anchor:before {
   color: #333;
   text-decoration: none;
   white-space: nowrap; /* 标题不换行（可选） */
-  overflow: hidden;
-  text-overflow: ellipsis; /* 超长标题显示省略号 */
+  /* overflow: hidden;*/
+  /* text-overflow: ellipsis;  超长标题显示省略号 */
 }
 
 .paper-title:hover {
@@ -150,7 +150,7 @@ h1:before, .anchor:before {
 
 /* 作者样式 */
 .paper-authors {
-  font-size: 0.9em;
+  font-size: 1em;
   color: #666; /* 灰色区分标题 */
   white-space: nowrap; /* 作者不换行 */
 }
