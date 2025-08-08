@@ -48,7 +48,8 @@ My research interests include audio signal processing, array signal processing, 
   </div>
 </div>
 
-**Journal**
+## Journal
+
 <div class="papers-list">
   <div class="paper-item">
     <div class="paper-content">
