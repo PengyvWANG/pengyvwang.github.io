@@ -52,7 +52,7 @@ My research interests include audio signal processing, array signal processing, 
 <div class="papers-list">
   <div class="paper-item">
     <div class="paper-content">
-      <span class="badge">IEEE Trans. ASLP</span>
+      <span class="badge">IEEE TASLP</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1109/TASLPRO.2025.3592333">CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR</a>
         <span class="paper-authors">Nian Shao, Rui Zhou, <strong>Pengyu Wang</strong>, et al.</span>
@@ -62,7 +62,7 @@ My research interests include audio signal processing, array signal processing, 
 
   <div class="paper-item">
     <div class="paper-content">
-      <span class="badge">Signal Processing</span>
+      <span class="badge">SP</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1016/j.sigpro.2021.108423">An Off-grid Wideband DOA Estimation Method with the Variational Bayes Expectation-Maximization Framework</a>
         <span class="paper-authors"><strong>Pengyu Wang</strong>, Huichao Yang, Zhongfu Ye</span>
@@ -72,7 +72,7 @@ My research interests include audio signal processing, array signal processing, 
   
   <div class="paper-item">
     <div class="paper-content">
-      <span class="badge">Digital Signal Processing</span>
+      <span class="badge">DSP</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1016/j.dsp.2021.103265">1-Bit direction of arrival estimation via improved complex-valued binary iterative hard thresholding</a>
         <span class="paper-authors"><strong>Pengyu Wang</strong>, Huichao Yang, Zhongfu Ye</span>
@@ -82,7 +82,7 @@ My research interests include audio signal processing, array signal processing, 
 
   <div class="paper-item">
     <div class="paper-content">
-      <span class="badge">IEEE Signal Processing Letters</span>
+      <span class="badge">IEEE SPL</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1109/LCOMM.2021.3103208">Robust Adaptive Beamforming via Covariance Matrix Reconstruction Under Colored Noise</a>
         <span class="paper-authors">Huichao Yang, <strong>Pengyu Wang</strong>, Zhongfu Ye</span>
@@ -92,7 +92,7 @@ My research interests include audio signal processing, array signal processing, 
 
   <div class="paper-item">
     <div class="paper-content">
-      <span class="badge">IEEE Communications Letters</span>
+      <span class="badge">IEEE CL</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1109/LSP.2021.3105930">Robust adaptive beamforming via covariance matrix reconstruction and interference power estimation</a>
         <span class="paper-authors">Huichao Yang, <strong>Pengyu Wang</strong>, Zhongfu Ye</span>
