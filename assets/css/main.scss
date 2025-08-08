@@ -117,11 +117,10 @@ h1:before, .anchor:before {
 
 /* 徽章样式：避免遮挡 */
 .badge {
-  padding: 0.05em 0.05em;
+  padding: 0.01em 0.01em;
   color: white;
   background-color: #00369f;
   font-size: 0.75em;
-  border-radius: 4px;
   /* 关键：固定徽章位置，不挤压内容 */
   flex-shrink: 0; /* 徽章不缩小 */
 }
