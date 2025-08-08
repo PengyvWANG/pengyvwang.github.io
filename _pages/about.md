@@ -42,7 +42,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">arxiv</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.48550/arXiv.2502.07205">VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification</a>
-        <span class="paper-authors">**Pengyu Wang**, Ying Fang, Xiaofei Li</span>
+        **Pengyu Wang**, Ying Fang, Xiaofei Li
       </div>
     </div>
   </div>
@@ -109,7 +109,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">NIPS 2024</span>
       <div class="text-content">
         <a class="paper-title" href="https://proceedings.neurips.cc/paper_files/paper/2024/file/bf8f6f5b017dc60d0c4e28a7a9a4ee7b-Paper-Datasets_and_Benchmarks_Track.pdf">RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization</a>
-        <span class="paper-authors">Bing Yang, Changsheng Quang, Yabo Wang, **Pengyu Wang**, et al.</span>
+        Bing Yang, Changsheng Quang, Yabo Wang, **Pengyu Wang**, et al.
       </div>
     </div>
   </div>
