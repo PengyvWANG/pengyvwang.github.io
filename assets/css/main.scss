@@ -107,28 +107,50 @@ h1:before, .anchor:before {
 //     background-color: #00369f;
 //     font-size: .8em;
 // }
+/* 论文条目容器：flex 布局确保同行 */
+.paper-content {
+  display: flex; /* 强制内部元素横向排列 */
+  align-items: center; /* 垂直居中对齐 */
+  gap: 0.8em; /* 徽章与文本之间的间距 */
+  padding: 0.5em 0; /* 上下留白 */
+}
+
+/* 徽章样式：避免遮挡 */
 .badge {
-  display: inline-block; /* 关键：让徽章和标题在同一行 */
-  padding: 0.2em 0.6em; /* 小一点的内边距，避免太占空间 */
-  margin-right: 0.5em; /* 徽章与标题之间留距离 */
+  padding: 0.2em 0.6em;
   color: white;
-  background-color: #00369f; /* IEEE 期刊蓝色 */
-  font-size: 0.75em; /* 略小于标题字体 */
-  border-radius: 4px; /* 圆角更美观 */
-  vertical-align: middle; /* 与标题文字垂直居中对齐 */
+  background-color: #00369f;
+  font-size: 0.75em;
+  border-radius: 4px;
+  /* 关键：固定徽章位置，不挤压内容 */
+  flex-shrink: 0; /* 徽章不缩小 */
 }
 
-/* 标题容器样式 */
+/* 文本内容容器：标题和作者同行 */
+.text-content {
+  display: flex; /* 标题和作者横向排列 */
+  align-items: center;
+  gap: 0.5em; /* 标题与作者之间的间距 */
+  flex-grow: 1; /* 占满剩余空间 */
+}
+
+/* 标题样式 */
 .paper-title {
-  font-size: 1.1em; /* 标题字体大小 */
-  margin: 0.5em 0; /* 上下留空间 */
+  font-size: 1em;
+  color: #333;
+  text-decoration: none;
+  white-space: nowrap; /* 标题不换行（可选） */
+  overflow: hidden;
+  text-overflow: ellipsis; /* 超长标题显示省略号 */
 }
 
-/* 标题链接样式（可选） */
-.paper-title a {
-  color: #333; /* 标题颜色 */
-  text-decoration: none; /* 去除下划线 */
+.paper-title:hover {
+  text-decoration: underline;
 }
-.paper-title a:hover {
-  text-decoration: underline; /*  hover 时显示下划线 */
+
+/* 作者样式 */
+.paper-authors {
+  font-size: 0.9em;
+  color: #666; /* 灰色区分标题 */
+  white-space: nowrap; /* 作者不换行 */
 }
