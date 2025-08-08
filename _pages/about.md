@@ -37,7 +37,7 @@ My research interests include audio signal processing, array signal processing, 
 **Preprint**
 
 <div class="papers-list">
-  - <div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">arxiv</span>
       <div class="text-content">
@@ -50,7 +50,7 @@ My research interests include audio signal processing, array signal processing, 
 
 **Journal**
 <div class="papers-list">
-  - <div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">IEEE TASLP</span>
       <div class="text-content">
@@ -59,8 +59,7 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-
-  - <div class="paper-item">
+<div class="paper-item">
     <div class="paper-content">
       <span class="badge">SP</span>
       <div class="text-content">
@@ -69,8 +68,7 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-  
-  - <div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">DSP</span>
       <div class="text-content">
@@ -79,8 +77,7 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-
-  - <div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">IEEE SPL</span>
       <div class="text-content">
@@ -90,7 +87,7 @@ My research interests include audio signal processing, array signal processing, 
     </div>
   </div>
 
-  - <div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">IEEE CL</span>
       <div class="text-content">
@@ -104,7 +101,7 @@ My research interests include audio signal processing, array signal processing, 
 **Conference**
 
 <div class="papers-list">
-  - <div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">NIPS 2024</span>
       <div class="text-content">
@@ -114,7 +111,7 @@ My research interests include audio signal processing, array signal processing, 
     </div>
   </div>
 
-  - <div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">ICASSP 2024</span>
       <div class="text-content">
@@ -124,7 +121,7 @@ My research interests include audio signal processing, array signal processing, 
     </div>
   </div>
 
-  - <div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">Interspeech 2022</span>
       <div class="text-content">
@@ -134,7 +131,7 @@ My research interests include audio signal processing, array signal processing, 
     </div>
   </div>
 
-  - <div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">Interspeech 2022</span>
       <div class="text-content">
