@@ -146,7 +146,7 @@ My research interests include audio signal processing, array signal processing, 
   
 </div>
 
-
+<!--
 **Patent**
 
 - Zhongfu Ye, **Pengyu Wang**, Huichao Yang, Method and system for detecting the working state of a ball mill using non-contact speed measurement.
@@ -155,7 +155,7 @@ My research interests include audio signal processing, array signal processing, 
 - Zhongfu Ye, Huichao Yang, **Pengyu Wang**, Method and system for fault detection of large reactors based on optimal wideband beamforming.
 - Zhongfu Ye, Huichao Yang, **Pengyu Wang**, Method for detecting the working state of a ball mill based on sound energy.
 - Zhongfu Ye, Huichao Yang, **Pengyu Wang**, A fast bit-power allocation method for NC-OFDM satellite communication.
-
+-->
 
 # 📖 Educations
 - *2022.09 - now*, Ph.D. candidate in Computer Science and Technology at Zhejiang University (浙江大学), Hangzhou, China and also Westlake University (西湖大学), Hangzhou, China. Supervisor: Prof. Xiaofei Li (李晓飞).
