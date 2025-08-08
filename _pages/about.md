@@ -34,7 +34,7 @@ My research interests include audio signal processing, array signal processing, 
 # 📝 Publications 
 
 
-**Preprint**
+## Preprint
 
 <div class="papers-list">
   <div class="paper-item">
@@ -98,7 +98,7 @@ My research interests include audio signal processing, array signal processing, 
   </div>
 </div>
 
-**Conference**
+## Conference
 
 <div class="papers-list">
   <div class="paper-item">
