@@ -40,20 +40,20 @@ My research interests include audio signal processing, array signal processing, 
 
 
 **Journal**
-- Nian Shao, Rui Zhou, **Pengyu Wang**, et al. [CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR](https://doi.org/10.1109/TASLPRO.2025.3592333). **IEEE Transactions on Audio, Speech and Language Processing**.
-- **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [An Off-grid Wideband DOA Estimation Method with the Variational Bayes Expectation-Maximization Framework](https://doi.org/10.1016/j.sigpro.2021.108423). **Signal Processing**, 193, 108423.
-- **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [1-Bit direction of arrival estimation via improved complex-valued binary iterative hard thresholding](https://doi.org/10.1016/j.dsp.2021.103265). **Digital Signal Processing**, 120, 103265.
-- Huichao Yang, **Pengyu Wang**, Zhongfu Ye. [Robust Adaptive Beamforming via Covariance Matrix Reconstruction Under Colored Noise](https://doi.org/10.1109/LCOMM.2021.3103208), **IEEE Signal Processing Letters**, 28, 1759-1763.
-- Huichao Yang, **Pengyu Wang**, Zhongfu Ye. [Robust adaptive beamforming via covariance matrix reconstruction and interference power estimation](https://doi.org/10.1109/LSP.2021.3105930), **IEEE Communications Letters**, 25 (10), 3394-3397.
+- Nian Shao, Rui Zhou, **Pengyu Wang**, et al. [CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR](https://doi.org/10.1109/TASLPRO.2025.3592333). <div class="badge">IEEE Trans. ASLP</div>
+- **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [An Off-grid Wideband DOA Estimation Method with the Variational Bayes Expectation-Maximization Framework](https://doi.org/10.1016/j.sigpro.2021.108423). <div class="badge">Signal Processing</div>
+- **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [1-Bit direction of arrival estimation via improved complex-valued binary iterative hard thresholding](https://doi.org/10.1016/j.dsp.2021.103265). <div class="badge">Digital Signal Processing</div>
+- Huichao Yang, **Pengyu Wang**, Zhongfu Ye. [Robust Adaptive Beamforming via Covariance Matrix Reconstruction Under Colored Noise](https://doi.org/10.1109/LCOMM.2021.3103208), <div class="badge">IEEE Signal Processing Letters</div>
+- Huichao Yang, **Pengyu Wang**, Zhongfu Ye. [Robust adaptive beamforming via covariance matrix reconstruction and interference power estimation](https://doi.org/10.1109/LSP.2021.3105930), <div class="badge">IEEE Communications Letters</div>
 
 
 
 **Conference**
 
-- Bing Yang, Changsheng Quang, Yabo Wang, **Pengyu Wang**, et al. [RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization](https://proceedings.neurips.cc/paper_files/paper/2024/file/bf8f6f5b017dc60d0c4e28a7a9a4ee7b-Paper-Datasets_and_Benchmarks_Track.pdf). **Advances in Neural Information Processing Systems (NeurIPS)**, 37, 105997-106019.
-- **Pengyu Wang**, Xiaofei Li. [RVAE-EM: Generative speech dereverberation based on recurrent variational auto-encoder and convolutive transfer function](https://doi.org/10.1109/ICASSP48485.2024.10447010). **ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**.
-- **Pengyu Wang**, Feifei Xiong, Zhongfu Ye, et al. [Joint Estimation of Direction-of-Arrival and Distance for Arrays with Directional Sensors based on Sparse Bayesian Learning](https://www.isca-archive.org/interspeech_2022/xiong22b_interspeech.pdf). **Interspeech**, 871-875.
-- Feifei Xiong, Weiguang Chen, **Pengyu Wang**, et al. [Spectro-Temporal SubNet for Real-Time Monaural Speech Denoising and Dereverberation](https://www.researchgate.net/profile/Feifei-Xiong/publication/361305762_Spectro-Temporal_SubNet_for_Real-Time_Monaural_Speech_Denoising_and_Dereverberation/links/63f43adcb1704f343f6dc8f6/Spectro-Temporal-SubNet-for-Real-Time-Monaural-Speech-Denoising-and-Dereverberation.pdf). **Interspeech**, 931-935.
+- Bing Yang, Changsheng Quang, Yabo Wang, **Pengyu Wang**, et al. [RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization](https://proceedings.neurips.cc/paper_files/paper/2024/file/bf8f6f5b017dc60d0c4e28a7a9a4ee7b-Paper-Datasets_and_Benchmarks_Track.pdf). <div class="badge">NIPS 2024</div>
+- **Pengyu Wang**, Xiaofei Li. [RVAE-EM: Generative speech dereverberation based on recurrent variational auto-encoder and convolutive transfer function](https://doi.org/10.1109/ICASSP48485.2024.10447010). <div class="badge">ICASSP 2024</div>
+- **Pengyu Wang**, Feifei Xiong, Zhongfu Ye, et al. [Joint Estimation of Direction-of-Arrival and Distance for Arrays with Directional Sensors based on Sparse Bayesian Learning](https://www.isca-archive.org/interspeech_2022/xiong22b_interspeech.pdf). <div class="badge">Interspeech 2022</div>
+- Feifei Xiong, Weiguang Chen, **Pengyu Wang**, et al. [Spectro-Temporal SubNet for Real-Time Monaural Speech Denoising and Dereverberation](https://www.researchgate.net/profile/Feifei-Xiong/publication/361305762_Spectro-Temporal_SubNet_for_Real-Time_Monaural_Speech_Denoising_and_Dereverberation/links/63f43adcb1704f343f6dc8f6/Spectro-Temporal-SubNet-for-Real-Time-Monaural-Speech-Denoising-and-Dereverberation.pdf). <div class="badge">Interspeech 2022</div>
 
 
 **Patent**
