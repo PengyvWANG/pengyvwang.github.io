@@ -40,9 +40,13 @@ My research interests include audio signal processing, array signal processing, 
 
 
 **Journal**
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+<div class="paper-item">
+  <div class="paper-title">
+    <span class="badge">IEEE Trans. ASLP</span>
+    <a href="https://doi.org/10.1109/TASLPRO.2025.3592333">CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR</a>
+  </div>
+  <div class="paper-authors">Nian Shao, Rui Zhou, **Pengyu Wang**, et al.</div>
+</div>
 - Nian Shao, Rui Zhou, **Pengyu Wang**, et al. [CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR](https://doi.org/10.1109/TASLPRO.2025.3592333). <div class="badge">IEEE Trans. ASLP</div>
 - **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [An Off-grid Wideband DOA Estimation Method with the Variational Bayes Expectation-Maximization Framework](https://doi.org/10.1016/j.sigpro.2021.108423). <div class="badge">Signal Processing</div>
 - **Pengyu Wang**, Huichao Yang, Zhongfu Ye. [1-Bit direction of arrival estimation via improved complex-valued binary iterative hard thresholding](https://doi.org/10.1016/j.dsp.2021.103265). <div class="badge">Digital Signal Processing</div>
