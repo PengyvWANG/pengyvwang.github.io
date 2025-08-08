@@ -42,7 +42,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">arxiv</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.48550/arXiv.2502.07205">VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification</a>
-        **Pengyu Wang**, Ying Fang, Xiaofei Li
+        <strong>Pengyu Wang</strong>, Ying Fang, Xiaofei Li
       </div>
     </div>
   </div>
@@ -55,7 +55,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">IEEE Trans. ASLP</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1109/TASLPRO.2025.3592333">CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR</a>
-        <span class="paper-authors">Nian Shao, Rui Zhou, **Pengyu Wang**, et al.</span>
+        <span class="paper-authors">Nian Shao, Rui Zhou, <strong>Pengyu Wang</strong>, et al.</span>
       </div>
     </div>
   </div>
@@ -65,7 +65,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">Signal Processing</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1016/j.sigpro.2021.108423">An Off-grid Wideband DOA Estimation Method with the Variational Bayes Expectation-Maximization Framework</a>
-        <span class="paper-authors">Pengyu Wang**, Huichao Yang, Zhongfu Ye</span>
+        <span class="paper-authors"><strong>Pengyu Wang</strong>, Huichao Yang, Zhongfu Ye</span>
       </div>
     </div>
   </div>
@@ -75,7 +75,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">Digital Signal Processing</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1016/j.dsp.2021.103265">1-Bit direction of arrival estimation via improved complex-valued binary iterative hard thresholding</a>
-        <span class="paper-authors">**Pengyu Wang**, Huichao Yang, Zhongfu Ye</span>
+        <span class="paper-authors"><strong>Pengyu Wang</strong>, Huichao Yang, Zhongfu Ye</span>
       </div>
     </div>
   </div>
@@ -85,7 +85,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">IEEE Signal Processing Letters</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1109/LCOMM.2021.3103208">Robust Adaptive Beamforming via Covariance Matrix Reconstruction Under Colored Noise</a>
-        <span class="paper-authors">Huichao Yang, **Pengyu Wang**, Zhongfu Ye</span>
+        <span class="paper-authors">Huichao Yang, <strong>Pengyu Wang</strong>, Zhongfu Ye</span>
       </div>
     </div>
   </div>
@@ -95,7 +95,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">IEEE Communications Letters</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1109/LSP.2021.3105930">Robust adaptive beamforming via covariance matrix reconstruction and interference power estimation</a>
-        <span class="paper-authors">Huichao Yang, **Pengyu Wang**, Zhongfu Ye</span>
+        <span class="paper-authors">Huichao Yang, <strong>Pengyu Wang</strong>, Zhongfu Ye</span>
       </div>
     </div>
   </div>
@@ -109,7 +109,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">NIPS 2024</span>
       <div class="text-content">
         <a class="paper-title" href="https://proceedings.neurips.cc/paper_files/paper/2024/file/bf8f6f5b017dc60d0c4e28a7a9a4ee7b-Paper-Datasets_and_Benchmarks_Track.pdf">RealMAN: A recorded and annotated microphone array dataset for dynamic speech enhancement and localization</a>
-        Bing Yang, Changsheng Quang, Yabo Wang, **Pengyu Wang**, et al.
+        Bing Yang, Changsheng Quang, Yabo Wang, <strong>Pengyu Wang</strong>, et al.
       </div>
     </div>
   </div>
@@ -119,7 +119,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">ICASSP 2024</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1109/ICASSP48485.2024.10447010">RVAE-EM: Generative speech dereverberation based on recurrent variational auto-encoder and convolutive transfer function</a>
-        <span class="paper-authors">**Pengyu Wang**, Xiaofei Li</span>
+        <span class="paper-authors"><strong>Pengyu Wang</strong>, Xiaofei Li</span>
       </div>
     </div>
   </div>
@@ -129,7 +129,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">Interspeech 2022</span>
       <div class="text-content">
         <a class="paper-title" href="https://www.isca-archive.org/interspeech_2022/xiong22b_interspeech.pdf">Joint Estimation of Direction-of-Arrival and Distance for Arrays with Directional Sensors based on Sparse Bayesian Learning</a>
-        <span class="paper-authors">**Pengyu Wang**, Feifei Xiong, Zhongfu Ye, et al.</span>
+        <span class="paper-authors"><strong>Pengyu Wang</strong>, Feifei Xiong, Zhongfu Ye, et al.</span>
       </div>
     </div>
   </div>
@@ -139,7 +139,7 @@ My research interests include audio signal processing, array signal processing, 
       <span class="badge">Interspeech 2022</span>
       <div class="text-content">
         <a class="paper-title" href="https://www.researchgate.net/profile/Feifei-Xiong/publication/361305762_Spectro-Temporal_SubNet_for_Real-Time_Monaural_Speech_Denoising_and_Dereverberation/links/63f43adcb1704f343f6dc8f6/Spectro-Temporal-SubNet-for-Real-Time-Monaural-Speech-Denoising-and-Dereverberation.pdf">Spectro-Temporal SubNet for Real-Time Monaural Speech Denoising and Dereverberation</a>
-        <span class="paper-authors">Feifei Xiong, Weiguang Chen, **Pengyu Wang**, et al.</span>
+        <span class="paper-authors">Feifei Xiong, Weiguang Chen, <strong>Pengyu Wang</strong>, et al.</span>
       </div>
     </div>
   </div>
