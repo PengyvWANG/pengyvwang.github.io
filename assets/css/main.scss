@@ -123,6 +123,7 @@ h1:before, .anchor:before {
   font-size: 0.75em;
   /* 关键：固定徽章位置，不挤压内容 */
   flex-shrink: 0; /* 徽章不缩小 */
+  border-radius: 0;
 }
 
 /* 文本内容容器：标题和作者同行 */
