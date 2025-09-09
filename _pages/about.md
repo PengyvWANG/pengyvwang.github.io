@@ -32,7 +32,7 @@ My research interests include audio signal processing, array signal processing, 
 # 📝 Publications 
 
 <!-- 关键修改1：为 Publications 主容器添加样式，消除默认边距，与页面主宽度对齐 -->
-<div style="margin: 0; padding: 0; width: 100%; max-width: inherit;">
+<!-- <div style="margin: 0; padding: 0; width: 100%; max-width: inherit;">-->
 
 ## Preprint
 
