@@ -34,7 +34,7 @@ My research interests include audio signal processing, array signal processing, 
 <!-- 关键修改1：为 Publications 主容器添加样式，消除默认边距，与页面主宽度对齐 -->
 <div style="margin: 0; padding: 0; width: 100%; max-width: inherit;">
 
-### Preprint
+## Preprint
 
 <!-- 关键修改2：为每个子列表容器（papers-list）添加样式，统一内边距为0，避免左偏/右偏 -->
 <div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
@@ -49,7 +49,7 @@ My research interests include audio signal processing, array signal processing, 
   </div>
 </div>
 
-### Journal
+## Journal
 
 <div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
   <div class="paper-item">
@@ -99,7 +99,7 @@ My research interests include audio signal processing, array signal processing, 
   </div>
 </div>
 
-### Conference
+## Conference
 
 <div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
   <div class="paper-item">
