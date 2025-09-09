@@ -29,14 +29,15 @@ My research interests include audio signal processing, array signal processing, 
 - 2024.09: &nbsp;🎉🎉🎉 One paper accepted by NIPS 2024!
 
 
-
-  
 # 📝 Publications 
 
+<!-- 关键修改1：为 Publications 主容器添加样式，消除默认边距，与页面主宽度对齐 -->
+<div style="margin: 0; padding: 0; width: 100%; max-width: inherit;">
 
-## Preprint
+- **Preprint**
 
-<div class="papers-list">
+<!-- 关键修改2：为每个子列表容器（papers-list）添加样式，统一内边距为0，避免左偏/右偏 -->
+<div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
   <div class="paper-item">
     <div class="paper-content">
       <span class="badge">arxiv</span>
@@ -48,9 +49,9 @@ My research interests include audio signal processing, array signal processing, 
   </div>
 </div>
 
-## Journal
+- **Journal**
 
-<div class="papers-list">
+<div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
   <div class="paper-item">
     <div class="paper-content">
       <span class="badge">IEEE TASLP</span>
@@ -60,7 +61,7 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-<div class="paper-item">
+  <div class="paper-item">
     <div class="paper-content">
       <span class="badge">SP</span>
       <div class="text-content">
@@ -87,7 +88,6 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-
   <div class="paper-item">
     <div class="paper-content">
       <span class="badge">IEEE CL</span>
@@ -99,9 +99,9 @@ My research interests include audio signal processing, array signal processing, 
   </div>
 </div>
 
-## Conference
+- **Conference**
 
-<div class="papers-list">
+<div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
   <div class="paper-item">
     <div class="paper-content">
       <span class="badge">NIPS 2024</span>
@@ -111,7 +111,6 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-
   <div class="paper-item">
     <div class="paper-content">
       <span class="badge">ICASSP 2024</span>
@@ -121,7 +120,6 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-
   <div class="paper-item">
     <div class="paper-content">
       <span class="badge">Interspeech 2022</span>
@@ -131,7 +129,6 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-
   <div class="paper-item">
     <div class="paper-content">
       <span class="badge">Interspeech 2022</span>
@@ -141,8 +138,9 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-  
 </div>
+
+</div> <!-- 关闭 Publications 主容器 -->
 
 <!--
 **Patent**
@@ -166,4 +164,3 @@ My research interests include audio signal processing, array signal processing, 
 # 🎖 Honors and Awards
 - Zhejiang University "Award of Honor for Graduate".
 - Westlake University "Exploration Award".
-
