@@ -40,6 +40,85 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* 1. 先统一外层容器宽度（关键：消除默认边距，与页面主宽度对齐） */
+.papers-list {
+    width: 100%; /* 强制占满父容器宽度 */
+    max-width: inherit; /* 继承页面主容器的最大宽度，避免超宽 */
+    margin: 0; /* 清除默认外边距 */
+    padding: 0; /* 清除默认内边距 */
+}
+
+/* 2. 论文条目容器：flex 布局优化（确保不挤压、不溢出） */
+.paper-content {
+    display: flex; 
+    align-items: flex-start; /* 改为顶部对齐，避免文本换行时徽章错位 */
+    gap: 0.8em; /* 徽章与文本间距保留，优化视觉 */
+    padding: 0.8em 0; /* 上下留白适度增加，提升可读性 */
+    width: 100%; /* 强制条目占满外层容器 */
+    box-sizing: border-box; /* 确保 padding 不影响宽度计算 */
+}
+
+/* 3. 徽章样式：固定尺寸，不干扰布局 */
+.badge {
+    padding: 0.2em 0.6em; /* 增加内边距，文字更舒展 */
+    color: white;
+    background-color: #00369f; /* 保留原配色，提升辨识度 */
+    font-size: 0.75em;
+    flex-shrink: 0; /* 徽章不缩小，确保样式稳定 */
+    border-radius: 2px; /* 轻微圆角，视觉更友好 */
+    line-height: 1.4; /* 优化文字垂直居中 */
+}
+
+/* 4. 文本内容容器：允许换行，避免溢出（核心修复点） */
+.text-content {
+    display: flex;
+    flex-direction: column; /* 改为纵向排列：标题在上，作者在下 */
+    gap: 0.3em; /* 标题与作者的垂直间距，避免拥挤 */
+    flex-grow: 1; /* 占满剩余空间，确保宽度跟随外层容器 */
+    width: calc(100% - 40px); /* 预留徽章宽度，避免内容挤压 */
+}
+
+/* 5. 标题样式：允许换行，优化超宽处理 */
+.paper-title {
+    font-size: 1em;
+    color: #2c3e50; /* 加深颜色，提升对比度 */
+    text-decoration: none;
+    white-space: normal; /* 取消强制不换行，允许自然折行 */
+    line-height: 1.5; /* 优化行高，提升阅读体验 */
+    word-wrap: break-word; /* 超宽单词强制换行，避免溢出 */
+}
+
+.paper-title:hover {
+    text-decoration: underline;
+    color: #0066cc; /*  hover 时变色，增加交互反馈 */
+}
+
+/* 6. 作者样式：允许换行，适配多作者场景 */
+.paper-authors {
+    font-size: 0.9em; /* 缩小字号，与标题区分层级 */
+    color: #666;
+    white-space: normal; /* 取消强制不换行，多作者时自然折行 */
+    line-height: 1.4;
+}
+
+/* 7. 适配移动端：确保小屏幕下布局正常 */
+@media (max-width: 768px) {
+    .paper-content {
+        gap: 0.5em; /* 缩小间距，适配小屏幕 */
+        padding: 0.6em 0;
+    }
+    .text-content {
+        width: calc(100% - 30px); /* 减少预留宽度，充分利用屏幕 */
+    }
+    .paper-title {
+        font-size: 0.95em; /* 轻微缩小标题字号 */
+    }
+    .paper-authors {
+        font-size: 0.85em;
+    }
+}
+
+/* 保留你原有的其他样式（如下），无需修改 */
 .paper-box {
     display: flex;
     justify-content: left;
@@ -48,7 +127,6 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
 
     .paper-box-image{
         justify-content: center;
@@ -81,10 +159,7 @@
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
 $scroll_offset : 2em;
@@ -97,6 +172,7 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+/* 原 badge 样式已注释，无需处理 */
 // .badge {
 //     padding-left: 1rem;
 //     padding-right: 1rem;
@@ -107,50 +183,3 @@ h1:before, .anchor:before {
 //     background-color: #00369f;
 //     font-size: .8em;
 // }
-/* 论文条目容器：flex 布局确保同行 */
-.paper-content {
-  display: flex; /* 强制内部元素横向排列 */
-  align-items: center; /* 垂直居中对齐 */
-  gap: 0.8em; /* 徽章与文本之间的间距 */
-  padding: 0.5em 0; /* 上下留白 */
-}
-
-/* 徽章样式：避免遮挡 */
-.badge {
-  padding: 0.1em 0.1em;
-  color: white;
-  background-color: #00369f;
-  font-size: 0.75em;
-  /* 关键：固定徽章位置，不挤压内容 */
-  flex-shrink: 0; /* 徽章不缩小 */
-  border-radius: 0;
-}
-
-/* 文本内容容器：标题和作者同行 */
-.text-content {
-  display: flex; /* 标题和作者横向排列 */
-  align-items: center;
-  gap: 0.5em; /* 标题与作者之间的间距 */
-  flex-grow: 1; /* 占满剩余空间 */
-}
-
-/* 标题样式 */
-.paper-title {
-  font-size: 1em;
-  color: #333;
-  text-decoration: none;
-  white-space: nowrap; /* 标题不换行（可选） */
-  /* overflow: hidden;*/
-  /* text-overflow: ellipsis;  超长标题显示省略号 */
-}
-
-.paper-title:hover {
-  text-decoration: underline;
-}
-
-/* 作者样式 */
-.paper-authors {
-  font-size: 1em;
-  color: #666; /* 灰色区分标题 */
-  white-space: nowrap; /* 作者不换行 */
-}
