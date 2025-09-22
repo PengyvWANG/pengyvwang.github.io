@@ -171,5 +171,6 @@ My research interests include audio signal processing, array signal processing, 
 - *2021.07 - 2021.09*, Algorithm Engineer Intern, Speech Lab, Machine Intelligence Technology, Alibaba DAMO Academy for Discovery, Adventure, Momentum and Outlook (阿里巴巴达摩院), Hangzhou, China.
 
 # 🎖 Honors and Awards
-- Zhejiang University "Award of Honor for Graduate".
-- Westlake University "Exploration Award".
+![](../images/fuyun.png)
+<!-- - Zhejiang University "Award of Honor for Graduate".
+- Westlake University "Exploration Award". -->
