@@ -47,6 +47,15 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
+  <div class="paper-item">
+    <div class="paper-content">
+      <span class="badge">arxiv</span>
+      <div class="text-content">
+        <a class="paper-title" href="https://arxiv.org/abs/2509.15628">Rec-RIR: Monaural Blind Room Impulse Response Identification via DNN-based Reverberant Speech Reconstruction in STFT Domain</a>
+<!--         <span class="paper-authors"><strong>Pengyu Wang</strong>, Xiaofei Li</span> -->
+      </div>
+    </div>
+  </div>
 </div>
 
 ## Journal
