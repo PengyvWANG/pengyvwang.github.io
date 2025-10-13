@@ -25,8 +25,8 @@ My research interests include audio signal processing, array signal processing, 
 
 
 # 🔥 News
+- 2025.10: &nbsp;🎉🎉🎉 One paper accepted by IEEE TASLP!
 - 2025.07: &nbsp;🎉🎉🎉 One paper accepted by IEEE TASLP!
-- 2024.09: &nbsp;🎉🎉🎉 One paper accepted by NIPS 2024!
 
 
 # 📝 Publications 
@@ -42,17 +42,7 @@ My research interests include audio signal processing, array signal processing, 
     <div class="paper-content">
       <span class="badge">arxiv</span>
       <div class="text-content">
-        <a class="paper-title" href="https://doi.org/10.48550/arXiv.2502.07205">VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification</a>
-<!--         <span class="paper-authors"><strong>Pengyu Wang</strong>, Ying Fang, Xiaofei Li</span> -->
-      </div>
-    </div>
-  </div>
-  <div class="paper-item">
-    <div class="paper-content">
-      <span class="badge">arxiv</span>
-      <div class="text-content">
         <a class="paper-title" href="https://arxiv.org/abs/2509.15628">Rec-RIR: Monaural Blind Room Impulse Response Identification via DNN-based Reverberant Speech Reconstruction in STFT Domain</a>
-<!--         <span class="paper-authors"><strong>Pengyu Wang</strong>, Xiaofei Li</span> -->
       </div>
     </div>
   </div>
@@ -65,8 +55,16 @@ My research interests include audio signal processing, array signal processing, 
     <div class="paper-content">
       <span class="badge">IEEE TASLP</span>
       <div class="text-content">
+        <a class="paper-title" href="https://doi.org/10.48550/arXiv.2502.07205">VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification</a>
+      </div>
+    </div>
+  </div>
+<div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
+  <div class="paper-item">
+    <div class="paper-content">
+      <span class="badge">IEEE TASLP</span>
+      <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1109/TASLPRO.2025.3592333">CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR</a>
-<!--         <span class="paper-authors">Nian Shao, Rui Zhou, <strong>Pengyu Wang</strong>, et al.</span> -->
       </div>
     </div>
   </div>
