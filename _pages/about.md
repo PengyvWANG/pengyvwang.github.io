@@ -59,7 +59,6 @@ My research interests include audio signal processing, array signal processing, 
       </div>
     </div>
   </div>
-<div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
   <div class="paper-item">
     <div class="paper-content">
       <span class="badge">IEEE TASLP</span>
