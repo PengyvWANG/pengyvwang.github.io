@@ -53,7 +53,7 @@ My research interests include audio signal processing, array signal processing, 
 <div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
   <div class="paper-item">
     <div class="paper-content">
-      <span class="badge">IEEE TASLP</span>
+      <span class="badge">IEEE TASLPRO</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.48550/arXiv.2502.07205">VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification</a>
       </div>
@@ -61,7 +61,7 @@ My research interests include audio signal processing, array signal processing, 
   </div>
   <div class="paper-item">
     <div class="paper-content">
-      <span class="badge">IEEE TASLP</span>
+      <span class="badge">IEEE TASLPRO</span>
       <div class="text-content">
         <a class="paper-title" href="https://doi.org/10.1109/TASLPRO.2025.3592333">CleanMel: Mel-Spectrogram Enhancement for Improving Both Speech Quality and ASR</a>
       </div>
@@ -89,7 +89,7 @@ My research interests include audio signal processing, array signal processing, 
     <div class="paper-content">
       <span class="badge">IEEE SPL</span>
       <div class="text-content">
-        <a class="paper-title" href="https://doi.org/10.1109/LCOMM.2021.3103208">Robust Adaptive Beamforming via Covariance Matrix Reconstruction Under Colored Noise</a>
+        <a class="paper-title" href="https://doi.org/10.1109/LSP.2021.3105930">Robust Adaptive Beamforming via Covariance Matrix Reconstruction Under Colored Noise</a>
 <!--         <span class="paper-authors">Huichao Yang, <strong>Pengyu Wang</strong>, Zhongfu Ye</span> -->
       </div>
     </div>
@@ -98,7 +98,7 @@ My research interests include audio signal processing, array signal processing, 
     <div class="paper-content">
       <span class="badge">IEEE CL</span>
       <div class="text-content">
-        <a class="paper-title" href="https://doi.org/10.1109/LSP.2021.3105930">Robust adaptive beamforming via covariance matrix reconstruction and interference power estimation</a>
+        <a class="paper-title" href="https://doi.org/10.1109/LCOMM.2021.3103208">Robust adaptive beamforming via covariance matrix reconstruction and interference power estimation</a>
 <!--         <span class="paper-authors">Huichao Yang, <strong>Pengyu Wang</strong>, Zhongfu Ye</span> -->
       </div>
     </div>
