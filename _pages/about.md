@@ -55,7 +55,7 @@ My research interests include audio signal processing, array signal processing, 
     <div class="paper-content">
       <span class="badge">IEEE TASLPRO</span>
       <div class="text-content">
-        <a class="paper-title" href="https://doi.org/10.48550/arXiv.2502.07205">VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification</a>
+        <a class="paper-title" href="https://ieeexplore.ieee.org/document/11206470">VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification</a>
       </div>
     </div>
   </div>
