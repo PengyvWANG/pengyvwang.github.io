@@ -25,8 +25,8 @@ My research interests include audio signal processing, array signal processing, 
 
 
 # 🔥 News
+- 2026.06: &nbsp;🎉🎉🎉 One paper accepted by Interspeech!
 - 2025.10: &nbsp;🎉🎉🎉 One paper accepted by IEEE TASLP!
-- 2025.07: &nbsp;🎉🎉🎉 One paper accepted by IEEE TASLP!
 
 
 # 📝 Publications 
@@ -165,6 +165,7 @@ My research interests include audio signal processing, array signal processing, 
 - *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University (西安电子科技大学), Xi'an, China. 
 
 # 💻 Experience
+- *2026.05 - now*, Algorithm Engineer Intern, TEA Lab, Tencent, Shenzhen, China.
 - *2021.07 - 2021.09*, Algorithm Engineer Intern, Speech Lab, Machine Intelligence Technology, Alibaba DAMO Academy for Discovery, Adventure, Momentum and Outlook (阿里巴巴达摩院), Hangzhou, China.
 
 # 💡 Reviewing
