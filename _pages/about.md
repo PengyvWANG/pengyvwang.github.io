@@ -165,7 +165,7 @@ My research interests include audio signal processing, array signal processing, 
 - *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University (西安电子科技大学), Xi'an, China. 
 
 # 💻 Experience
-- *2026.05 - now*, Algorithm Engineer Intern, TEA Lab, Tencent, Shenzhen, China.
+- *2026.05 - now*, Technical Research Intern (Project Up), TEA Lab (天籁实验室), CSIG, Tencent (腾讯), Shenzhen, China.
 - *2021.07 - 2021.09*, Algorithm Engineer Intern, Speech Lab, Machine Intelligence Technology, Alibaba DAMO Academy for Discovery, Adventure, Momentum and Outlook (阿里巴巴达摩院), Hangzhou, China.
 
 # 💡 Reviewing
