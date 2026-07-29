@@ -171,7 +171,8 @@ My research interests include audio signal processing, array signal processing, 
 # 💡 Reviewing
 - Signal Processing
 - Interspeech
-- IEEE Spoken Language Technology
+- IEEE Spoken Language Technology (SLT)
+- NCMMSC
 - Circuits, Systems, and Signal Processing
 - Electronics letters
 
