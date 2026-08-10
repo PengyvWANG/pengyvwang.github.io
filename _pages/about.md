@@ -36,17 +36,6 @@ My research interests include audio signal processing, array signal processing, 
 
 ## Preprint
 
-<!-- 关键修改2：为每个子列表容器（papers-list）添加样式，统一内边距为0，避免左偏/右偏 -->
-<div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
-  <div class="paper-item">
-    <div class="paper-content">
-      <span class="badge">arxiv</span>
-      <div class="text-content">
-        <a class="paper-title" href="https://arxiv.org/abs/2509.15628">Rec-RIR: Monaural Blind Room Impulse Response Identification via DNN-based Reverberant Speech Reconstruction in STFT Domain</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 ## Journal
 
@@ -108,6 +97,16 @@ My research interests include audio signal processing, array signal processing, 
 ## Conference
 
 <div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
+  <div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
+    <div class="paper-item">
+      <div class="paper-content">
+        <span class="badge">Interspeech 2026</span>
+        <div class="text-content">
+          <a class="paper-title" href="https://arxiv.org/abs/2509.15628">Blind Room Impulse Response Identification via Reverberant Speech Spectrum Reconstruction</a>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="paper-item">
     <div class="paper-content">
       <span class="badge">NIPS 2024</span>
