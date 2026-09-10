@@ -25,6 +25,7 @@ My research interests include audio signal processing, array signal processing, 
 
 
 # 🔥 News
+- 2026.09: &nbsp;🎉🎉🎉 One paper accepted by IEEE SLT!
 - 2026.06: &nbsp;🎉🎉🎉 One paper accepted by Interspeech!
 - 2025.10: &nbsp;🎉🎉🎉 One paper accepted by IEEE TASLP!
 
@@ -33,8 +34,6 @@ My research interests include audio signal processing, array signal processing, 
 
 <!-- 关键修改1：为 Publications 主容器添加样式，消除默认边距，与页面主宽度对齐 -->
 <!-- <div style="margin: 0; padding: 0; width: 100%; max-width: inherit;">-->
-
-## Preprint
 
 
 ## Journal
@@ -97,13 +96,19 @@ My research interests include audio signal processing, array signal processing, 
 ## Conference
 
 <div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
-  <div class="papers-list" style="margin: 0; padding: 0 0 15px 0;">
-    <div class="paper-item">
-      <div class="paper-content">
-        <span class="badge">Interspeech 2026</span>
-        <div class="text-content">
-          <a class="paper-title" href="https://arxiv.org/abs/2509.15628">Blind Room Impulse Response Identification via Reverberant Speech Spectrum Reconstruction</a>
-        </div>
+  <div class="paper-item">
+    <div class="paper-content">
+      <span class="badge">IEEE SLT 2026</span>
+      <div class="text-content">
+        <a class="paper-title">Variational Bayesian Inference with Multi-Aspect Neural Guidance for Speech Dereverberation</a>
+      </div>
+    </div>
+  </div>
+  <div class="paper-item">
+    <div class="paper-content">
+      <span class="badge">Interspeech 2026</span>
+      <div class="text-content">
+        <a class="paper-title" href="https://arxiv.org/abs/2509.15628">Blind Room Impulse Response Identification via Reverberant Speech Spectrum Reconstruction</a>
       </div>
     </div>
   </div>
