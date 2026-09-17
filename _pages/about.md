@@ -100,7 +100,7 @@ My research interests include audio signal processing, array signal processing, 
     <div class="paper-content">
       <span class="badge">IEEE SLT 2026</span>
       <div class="text-content">
-        <a class="paper-title">Variational Bayesian Inference with Multi-Aspect Neural Guidance for Speech Dereverberation</a>
+        <a class="paper-title" href="https://openreview.net/pdf?id=nF9SzbsxUg">Variational Bayesian Inference with Multi-Aspect Neural Guidance for Speech Dereverberation</a>
       </div>
     </div>
   </div>
