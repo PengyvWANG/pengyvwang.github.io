@@ -19,8 +19,7 @@ redirect_from:
 
 # 🤵🏻 About me
 
-I am currently a Ph.D. student in Computer Science and Technology at Zhejiang University, Hangzhou, China, and also at Westlake University (西湖大学), Hangzhou, China, supervised by Prof. Xiaofei Li (李晓飞). 
-
+I currently work in Tencent.
 My research interests include audio signal processing, array signal processing, deep learning, and machine learning. <a href='https://scholar.google.com/citations?user=j4EqUL8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
@@ -28,6 +27,25 @@ My research interests include audio signal processing, array signal processing, 
 - 2026.09: &nbsp;🎉🎉🎉 One paper accepted by IEEE SLT!
 - 2026.06: &nbsp;🎉🎉🎉 One paper accepted by Interspeech!
 - 2025.10: &nbsp;🎉🎉🎉 One paper accepted by IEEE TASLP!
+
+# 💻 Experience
+- *2026.10- now*, Technical Research (青云计划), TEA Lab (天籁实验室), CSIG, Tencent (腾讯), Shenzhen, China.
+- *2026.05 - 2026..9*, Technical Research Intern (青云计划), TEA Lab (天籁实验室), CSIG, Tencent (腾讯), Shenzhen, China.
+- *2021.07 - 2021.09*, Algorithm Engineer Intern, Speech Lab, Machine Intelligence Technology, Alibaba DAMO Academy for Discovery, Adventure, Momentum and Outlook (阿里巴巴达摩院), Hangzhou, China.
+- 
+# 📖 Educations
+- *2022.09 - now*, Ph.D. candidate in Computer Science and Technology at Zhejiang University (浙江大学), Hangzhou, China and also Westlake University (西湖大学), Hangzhou, China. Supervisor: Prof. Xiaofei Li (李晓飞).
+- *2019.09 - 2022.06*, M.S. in Information and Communication Engineering from University of Science and Technology of China (中国科学技术大学), Hefei, China. Supervisor: Prof. Zhongfu Ye (叶中付). Lab: National Engineering Laboratory of Speech and Language Information Processing (语音及语言信息处理国家工程实验室).
+- *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University (西安电子科技大学), Xi'an, China. 
+
+
+# 💡 Reviewing
+- Signal Processing
+- Interspeech
+- IEEE Spoken Language Technology (SLT)
+- NCMMSC
+- Circuits, Systems, and Signal Processing
+- Electronics letters
 
 
 # 📝 Publications 
@@ -163,23 +181,4 @@ My research interests include audio signal processing, array signal processing, 
 - Zhongfu Ye, Huichao Yang, **Pengyu Wang**, A fast bit-power allocation method for NC-OFDM satellite communication.
 -->
 
-# 📖 Educations
-- *2022.09 - now*, Ph.D. candidate in Computer Science and Technology at Zhejiang University (浙江大学), Hangzhou, China and also Westlake University (西湖大学), Hangzhou, China. Supervisor: Prof. Xiaofei Li (李晓飞).
-- *2019.09 - 2022.06*, M.S. in Information and Communication Engineering from University of Science and Technology of China (中国科学技术大学), Hefei, China. Supervisor: Prof. Zhongfu Ye (叶中付). Lab: National Engineering Laboratory of Speech and Language Information Processing (语音及语言信息处理国家工程实验室).
-- *2015.09 - 2019.06*, B.E. in Electronic and Information Engineering from Xidian University (西安电子科技大学), Xi'an, China. 
-
-# 💻 Experience
-- *2026.05 - now*, Technical Research Intern (青云计划), TEA Lab (天籁实验室), CSIG, Tencent (腾讯), Shenzhen, China.
-- *2021.07 - 2021.09*, Algorithm Engineer Intern, Speech Lab, Machine Intelligence Technology, Alibaba DAMO Academy for Discovery, Adventure, Momentum and Outlook (阿里巴巴达摩院), Hangzhou, China.
-
-# 💡 Reviewing
-- Signal Processing
-- Interspeech
-- IEEE Spoken Language Technology (SLT)
-- NCMMSC
-- Circuits, Systems, and Signal Processing
-- Electronics letters
-
-# 🎖 Honors and Awards
-![](../images/1.jpg)
 
