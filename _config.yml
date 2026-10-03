@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Pengyu Wang"
-description              : "Doctoral student at Zhejiang University and Westlake University. "
+title                    : "Dr. Pengyu Wang"
+description              : ""
 repository               : "PengyvWANG/pengyuwang.github.io"
 google_scholar_stats_use_cdn : true
 
